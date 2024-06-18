@@ -16,18 +16,18 @@ Scaffold decorator consists of two python scripts: one for the collection of R-g
 * NumPy
 
 ## Folder Structure
-scaffold_decorator/
-├── collect_r_groups/
+scaffold_decorator
+├── collect_r_groups
 │   ├── collect_r_groups.py
 │   ├── example_molecules.smi
 │   └── r_groups_output.smi
 │
-└── generate_new_molecules/
+└── generate_new_molecules
 │   ├── make_new_molecules.py
 │   ├── r_groups_unique.smi
 │   └── example_scaffolds.smi
 │
-└── other_files/
+└── other_files
    ├── bioinfo_db.smi
    ├── chembl_clinical.smi
 
