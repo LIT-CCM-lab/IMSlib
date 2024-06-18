@@ -31,7 +31,8 @@ scaffold_decorator
     └── example_scaffolds.smi
     
 └── other_files
-     ├── bioinfo_db.smi
+          
+      ├── bioinfo_db.smi
       ├── chembl_clinical.smi
 
 ## Step 1: R-Group Collection
